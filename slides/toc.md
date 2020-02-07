@@ -2,10 +2,9 @@
 
 #### Gestión de usuarios y credenciales
 
-* [Gestión básica de usuarios](/#job_types)
-* [Configuración de seguridad](/#job_sections)
-* [Permisos](/#builds)
-* [Credenciales](/#parameterized_jobs)
+* [Gestión básica de usuarios](/#user_management)
+* [Configuración de seguridad y permisos](/#global_security_configuration)
+* [Credenciales](/#credentials)
 
 notes:
 
