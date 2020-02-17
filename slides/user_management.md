@@ -57,7 +57,8 @@ notes:
 
 Al editar un usuario, podemos seleccionar en el menú de la izquierda diferentes opciones:
 * Ejecuciones: muestra todas las ejecuciones que han sido lanzadas por un usuario
-* 
+* Configurar: Acceso a la configuración de la cuenta del usuario
+* Borrar el usuario
 
 ^^^^^^
 

@@ -21,9 +21,9 @@ Desde esta pantalla podemos:
   * LDAP
   * Unix (/etc/passwd y /etc/shadow)
   * Delegar la seguridad al contenedor de Servlets. Este era el comportamiento de Jenkins por defecto hasta la
-    versión 1.163. Este modo el útil en dos situaciones: i) cuando heredas una instalación de Jenkins con una versión
+    versión 1.163. Este modo resulta útil en dos situaciones: i) cuando heredas una instalación de Jenkins con una versión
     1.163 o anterior y quieres seguir manteniendo el mismo comportamiento y ii) tienes un contenedor de Servlets
-    con la configuraciónd e Seguridad adecuada y quieres que Jenkins lo use. En otros casos, es mejor utilizar
+    con la configuración de Seguridad adecuada y quieres que Jenkins lo use. En otros casos, es mejor utilizar
     alguno de los métodos anteriores.
 * Permitir el registro libre de usuarios
 * Configurar el modelo de permisos (Authorization)
