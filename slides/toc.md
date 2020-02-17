@@ -5,6 +5,7 @@
 * [Gestión básica de usuarios](/#user_management)
 * [Configuración de seguridad y permisos](/#global_security_configuration)
 * [Credenciales](/#credentials)
+* [Ejercicios](/#exercises)
 
 notes:
 
